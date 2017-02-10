@@ -29,7 +29,9 @@ h4 {
 	color: rgb(47, 147, 123);
 }
 p{
-	font-size: 13px;
+	font-size: 18px;
+	margin-top: -10px;
+	color:#272727;
 }
 
 a {
@@ -221,7 +223,7 @@ ul.cat.list-inline li a:hover{
 .nopadding{ padding:  0;}
 
 #tf-about{
-	background: url(../img/07.jpg);
+	background: url(../img/SSJJ.jpg	);
 	background-size: cover;
 	background-position: center;
 	background-attachment: scroll;
@@ -299,4 +301,7 @@ nav#tf-footer {
 	background: #222222;
 	padding: 3% 0 2% 0;
 	color: #f1f1f1;
+}
+#p2{
+	margin-top: 20px;
 }
