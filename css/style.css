@@ -212,14 +212,14 @@ ul.cat.list-inline li a:hover{
 .nopadding{ padding:  0;}
 
 #tf-about{
-	background: url(../img/08.jpg	);
+	background: url(../img/08.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: scroll;
 	background-repeat: no-repeat;
 	color: #222222;
 	/*width: 100%;*/
-	margin-bottom: -200px;
+	/*margin-bottom: 200px;*/
 }
 
 #tf-about .overlay{
@@ -292,7 +292,7 @@ nav#tf-footer {
 	background: #222222;
 	padding: 3% 0 2% 0;
 	color: #f1f1f1;
-	margin-bottom: 100px;
+	/*margin-bottom: 100px;*/
 }
 #p2{
 	margin-top: 20px;
@@ -316,4 +316,7 @@ nav#tf-footer {
 }
 #h3{
 	margin-top: -20px;
+}
+#tf-footer{
+	margin-top: 200px;
 }
