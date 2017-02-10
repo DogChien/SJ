@@ -229,6 +229,7 @@ ul.cat.list-inline li a:hover{
 	background-attachment: scroll;
 	background-repeat: no-repeat;
 	color: #222222;
+	width: 100%;
 }
 
 #tf-about .overlay{
@@ -304,4 +305,11 @@ nav#tf-footer {
 }
 #p2{
 	margin-top: 20px;
+}
+#P3{
+	color: #FFF;
+}
+#li1{
+	font-size: 25px;
+	color: #FFF;
 }
