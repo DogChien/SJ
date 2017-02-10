@@ -58,7 +58,7 @@ a:focus{
 
 /* Home Style */
 #tf-home{
-	background: url(../img/LOOGO.jpg);
+	background: url(../img/123.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -305,7 +305,7 @@ nav#tf-footer {
 	color: #FFF;
 }
 #logo{
-	color:#AAAAAA;
+	color:#FFF;
 }
 #mag{
 	margin-bottom: 140px;
