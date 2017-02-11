@@ -58,7 +58,7 @@ a:focus{
 
 /* Home Style */
 #tf-home{
-	background: url(../img/123.jpg);
+	background: url(../img/home.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -132,7 +132,7 @@ a:focus{
 }
 
 #tf-portfolio{
-	background: #f1f1f1;
+	background: url(../img/123.jpg);
 	padding: 5%  0 8% 0;
 	text-align: center;
 }
@@ -319,4 +319,24 @@ nav#tf-footer {
 }
 #tf-footer{
 	margin-top: 200px;
+}
+#facebook{
+	text-align:center;
+}
+#h3{
+	text-align:left;
+	color: #FFF;
+}
+#h4{
+	color: #FFF;
+	font-size: 20px;
+}
+#marquee1{
+	font-size: 20px;
+}
+#marquee2{
+	font-size: 20px;
+}
+#marquee3{
+	font-size: 16px;
 }
