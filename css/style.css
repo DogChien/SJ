@@ -98,14 +98,14 @@ a:focus{
 #tf-menu.navbar-default .navbar-nav > li > a {
 	color:#F0F0F0;
 	text-transform: uppercase;
-	font-size: 16px;
+	font-size: 20px;
 	font-weight: 700;
 	letter-spacing: 1px;
 }
 
 #tf-menu.navbar-default .navbar-nav > li > a:hover,
 #tf-menu.navbar-default .navbar-nav > li > a:focus {
-	color: #2F937B;
+	color: #FFECEC;
 	background-color: transparent;
 }
 
@@ -306,6 +306,7 @@ nav#tf-footer {
 }
 #logo{
 	color:#FFF;
+	font-size: 32px;
 }
 #mag{
 	margin-bottom: 140px;
