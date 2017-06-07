@@ -132,7 +132,7 @@ a:focus{
 }
 
 #tf-portfolio{
-	background: url(../img/123.jpg);
+	background: url(../img/test.jpg);
 	padding: 5%  0 8% 0;
 	text-align: center;
 	width: 100%;
@@ -308,7 +308,7 @@ nav#tf-footer {
 }
 #logo{
 	color:#FFF;
-	font-size: 32px;
+	font-size: 16.5pt;
 }
 #mag{
 	margin-bottom: 140px;
