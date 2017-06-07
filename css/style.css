@@ -58,11 +58,13 @@ a:focus{
 
 /* Home Style */
 #tf-home{
-	background: url(../img/home.jpg);
+	background: url(../img/CGHome.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
+	width: auto;
+	height: 50%;
 	/*color: #cfcfcf;*/
 }
 
@@ -98,9 +100,10 @@ a:focus{
 #tf-menu.navbar-default .navbar-nav > li > a {
 	color:#F0F0F0;
 	text-transform: uppercase;
-	font-size: 20px;
+	font-size: 19px;
 	font-weight: 700;
 	letter-spacing: 1px;
+	font-family:DFKai-sb;
 }
 
 #tf-menu.navbar-default .navbar-nav > li > a:hover,
@@ -308,7 +311,8 @@ nav#tf-footer {
 }
 #logo{
 	color:#FFF;
-	font-size: 16.5pt;
+	font-size: 28px;
+	font-family:DFKai-sb;
 }
 #mag{
 	margin-bottom: 140px;
@@ -325,9 +329,7 @@ nav#tf-footer {
 #tf-footer{
 	margin-top: 200px;
 }
-#facebook{
-	text-align:center;
-}
+
 #h3{
 	text-align:left;
 	color: #FFF;
