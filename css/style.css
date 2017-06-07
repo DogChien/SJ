@@ -297,6 +297,7 @@ nav#tf-footer {
 	background: #222222;
 	padding: 3% 0 2% 0;
 	color: #f1f1f1;
+	margin-top: -100px;
 	/*margin-bottom: 100px;*/
 }
 #p2{
@@ -304,6 +305,7 @@ nav#tf-footer {
 }
 #P3{
 	color: #FFF;
+	font-size: 15px;
 }
 #li1{
 	font-size: 25px;
@@ -320,6 +322,11 @@ nav#tf-footer {
 }
 #address{
 	margin-top: -20px;
+	font-size: 25px;
+	text-align:center;
+}
+#address1{
+	margin-top: 20px;
 	font-size: 25px;
 	text-align:center;
 }
