@@ -58,14 +58,13 @@ a:focus{
 
 /* Home Style */
 #tf-home{
-	background: url(../img/CGHome.jpg);
+	background: url(../img/home1.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	width: auto;
-	height: 50%;
-	/*color: #cfcfcf;*/
+	height: auto;
 }
 
 
@@ -94,13 +93,13 @@ a:focus{
     top: 0;
     width: 100%;
     z-index: 10000;
-    background: #222222;
+    background: #FFED97;
     padding: 1% 0;
 }
 #tf-menu.navbar-default .navbar-nav > li > a {
-	color:#F0F0F0;
+	color:#AE0000;
 	text-transform: uppercase;
-	font-size: 19px;
+	font-size: 20px;
 	font-weight: 700;
 	letter-spacing: 1px;
 	font-family:DFKai-sb;
@@ -312,8 +311,8 @@ nav#tf-footer {
 	color: #FFF;
 }
 #logo{
-	color:#FFF;
-	font-size: 28px;
+	color:#930000;
+	font-size: 32px;
 	font-family:DFKai-sb;
 }
 #mag{
