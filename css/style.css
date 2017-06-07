@@ -135,7 +135,7 @@ a:focus{
 }
 
 #tf-portfolio{
-	background: url(../img/test.jpg);
+	background: url(../img/CGTop2.jpg);
 	padding: 5%  0 8% 0;
 	text-align: center;
 	width: 100%;
@@ -340,10 +340,25 @@ nav#tf-footer {
 }
 #marquee1{
 	font-size: 20px;
+	margin-top: 20px;
 }
 #marquee2{
 	font-size: 20px;
+	margin-top: 20px;
 }
 #marquee3{
 	font-size: 20px;
+	margin-top: 20px;
+}
+#marquee4{
+	font-size: 20px;
+	margin-top: 20px;
+}
+#marquee5{
+	font-size: 20px;
+	margin-top: 20px;
+}
+#marquee6{
+	font-size: 20px;
+	margin-top: 20px;
 }
